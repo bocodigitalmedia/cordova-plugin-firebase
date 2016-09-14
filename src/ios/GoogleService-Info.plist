@@ -2,5 +2,39 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>523200711737-lmctris66bd56iui11rm64n7hegh1n09.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.523200711737-lmctris66bd56iui11rm64n7hegh1n09</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAM-YYRdm9s5vv49jaTGdIChiPlRkVfDqk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>523200711737</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bocodigital.delphire</string>
+	<key>PROJECT_ID</key>
+	<string>boco-delphire</string>
+	<key>STORAGE_BUCKET</key>
+	<string>boco-delphire.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:523200711737:ios:20a06ba9473d6481</string>
+	<key>DATABASE_URL</key>
+	<string>https://boco-delphire.firebaseio.com</string>
 </dict>
 </plist>
