@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>523200711737-lmctris66bd56iui11rm64n7hegh1n09.apps.googleusercontent.com</string>
+	<string>735714383400-qkrblso8a3pqm36grouslj6h7417ltvk.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.523200711737-lmctris66bd56iui11rm64n7hegh1n09</string>
+	<string>com.googleusercontent.apps.735714383400-qkrblso8a3pqm36grouslj6h7417ltvk</string>
 	<key>API_KEY</key>
-	<string>AIzaSyAM-YYRdm9s5vv49jaTGdIChiPlRkVfDqk</string>
+	<string>AIzaSyBU2_XVnWqV014EK831zyW2kf2dV__P6iU</string>
 	<key>GCM_SENDER_ID</key>
-	<string>523200711737</string>
+	<string>735714383400</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.bocodigital.delphire</string>
+	<string>com.bocodigital.ctc</string>
 	<key>PROJECT_ID</key>
-	<string>boco-delphire</string>
+	<string>trivia-clovis</string>
 	<key>STORAGE_BUCKET</key>
-	<string>boco-delphire.appspot.com</string>
+	<string>trivia-clovis.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:523200711737:ios:20a06ba9473d6481</string>
+	<string>1:735714383400:ios:d7a07709a51a4195</string>
 	<key>DATABASE_URL</key>
-	<string>https://boco-delphire.firebaseio.com</string>
+	<string>https://trivia-clovis.firebaseio.com</string>
 </dict>
 </plist>
