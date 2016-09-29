@@ -68,4 +68,11 @@
     [FirebasePlugin.firebasePlugin sendNotification:mutableUserInfo];
 }
 
+- (void)application:(UIApplication *)application didRegisterForRemoteNotificationsWithDeviceToken:(NSData *)deviceToken{
+    
+    
+    [[FIRInstanceID instanceID] setAPNSToken:deviceToken type:FIRInstanceIDAPNSTokenTypeSandbox];
+    
+}
+
 @end
